@@ -1,0 +1,4 @@
+﻿  test1.cpp
+C:\Users\User\source\repos\test1\test1\test1.cpp(1,1): warning C4005: 'UNICODE': macro redefinition
+C:\Users\User\source\repos\test1\test1\test1.cpp : message : see previous definition of 'UNICODE'
+  test1.vcxproj -> C:\Users\User\source\repos\test1\Debug\test1.exe
